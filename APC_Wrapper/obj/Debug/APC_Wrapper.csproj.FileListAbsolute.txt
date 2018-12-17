@@ -1,0 +1,9 @@
+D:\Users\SCALA\source\repos\APC_Wrapper\APC_Wrapper\bin\Debug\APC_Wrapper.exe.config
+D:\Users\SCALA\source\repos\APC_Wrapper\APC_Wrapper\bin\Debug\APC_Wrapper.exe
+D:\Users\SCALA\source\repos\APC_Wrapper\APC_Wrapper\bin\Debug\APC_Wrapper.pdb
+D:\Users\SCALA\source\repos\APC_Wrapper\APC_Wrapper\obj\Debug\APC_Wrapper.csproj.CoreCompileInputs.cache
+D:\Users\SCALA\source\repos\APC_Wrapper\APC_Wrapper\obj\Debug\APC_Wrapper.exe
+D:\Users\SCALA\source\repos\APC_Wrapper\APC_Wrapper\obj\Debug\APC_Wrapper.pdb
+D:\Users\SCALA\source\repos\APC_Wrapper\APC_Wrapper\obj\Debug\APC_Wrapper.Properties.Resources.resources
+D:\Users\SCALA\source\repos\APC_Wrapper\APC_Wrapper\obj\Debug\APC_Wrapper.csproj.GenerateResource.cache
+D:\Users\SCALA\source\repos\APC_Wrapper\APC_Wrapper\obj\Debug\APC_Wrapper.csprojAssemblyReference.cache
